@@ -1,0 +1,31 @@
+$bgcolor: #FCFDF8;
+$buttoncolor: #08302F;
+
+body {
+    background-color: $bgcolor;
+    font-family: $font-family;
+}
+
+.button {
+    margin-top: 5px;
+}
+
+#btn-1 {
+    background-color: $buttoncolor;
+    margin-top: 5px;
+    border: none;
+    color: #fff;
+    text-align: center;
+    text-decoration: none;
+    padding: 15px 25px;
+    font-size: 20px;
+    width: 50%;
+}
+
+.form {
+    width: 50%;
+}
+
+.title-cont {
+    margin-bottom: 10px;
+}
